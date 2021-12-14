@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Mercado Livre
+-  👨🏾‍🎓 I have a bachelor's degree in information systems, graduating from UFRPE/UAST;
+-  🔭 I’m currently working on Mercado Livre
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: elvis.nogueira150@gmail.com
 
